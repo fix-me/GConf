@@ -1,0 +1,15 @@
+{
+  "name": "gconf",
+  "version": "0.0.1",
+  "description": "testing",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fix-me/GConf.git"
+  },
+  "author": "fix-me",
+  "license": "MIT"
+}
