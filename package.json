@@ -1,5 +1,5 @@
 {
-  "name": "gconf",
+  "name": "gconf-use",
   "version": "0.0.1",
   "description": "testing",
   "module": "index.js",
