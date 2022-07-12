@@ -1,1 +1,1 @@
-# GConf
+# gconf-use
